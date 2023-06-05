@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Map Page</title>
+    <style>
+      /* Add any CSS styling here. */
+      #mapContainer {
+        width: 100%;
+        border: 1px solid #ccc;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="mapContainer">
+      <!-- Add your map image here -->
+      <img src="IMG_1423.jpeg" alt="Map of Japan">
+    </div>
+  </body>
+</html>
